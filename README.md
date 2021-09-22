@@ -17,7 +17,7 @@ I've manage to make a simple and minimal portfolio.
 
 * Contact
 
-* Etc
+* Etc (GIthub, LinkedIn, Email.)
 
 ## Welcome
 
@@ -35,5 +35,13 @@ Some of the projects I worked on and collaborated with.
 
 You can send me a message thru email.
 
-# Preview 
+# Demo 
 
+![gif preview of portfolio how its function.](https://media.giphy.com/media/UHK52ZCq2rpp59W75G/giphy.gif?cid=790b7611143f487c2cf462415bb43be93cad6492065ba60f&rid=giphy.gif&ct=g)
+
+## Languages & Images
+
+* HTML
+* Javascript
+* CSS
+* Images
